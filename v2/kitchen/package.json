@@ -8,7 +8,7 @@
     "url": "http://github.com/leapmotion-examples/javascript.git"
   },
   "dependencies": {
-    "leapjs": "^0.6.4",
+    "leapjs": "^1.0.0",
     "say": "pehrlich/say.js",
     "underscore": "^1.8.3"
   }
